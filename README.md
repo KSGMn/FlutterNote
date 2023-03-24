@@ -1,20 +1,4 @@
-# Flutter_Note_Firebase
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Flutter + Firebase 간단한 노트 앱
 
 <img src="https://user-images.githubusercontent.com/116051442/227448698-3b5795a9-83d8-42c6-a34f-3a493963d85a.png" width="30%"/> <img src="https://user-images.githubusercontent.com/116051442/227449487-2844f11c-8e1a-4636-86e6-8dcf1f957b4d.png" width="30%"/> <img src="https://user-images.githubusercontent.com/116051442/227449491-6d085275-e015-4403-b7ec-dd14269c2cf3.png" width="30%"/>
 
